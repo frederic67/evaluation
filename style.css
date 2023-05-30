@@ -70,6 +70,7 @@ body {
     width: 100%;
     padding: 10px;
     margin-bottom: 10px;
+   
   }
   
   .contact-form button {
@@ -96,7 +97,9 @@ body {
   }
   label{margin-right: 0px;
     margin-left: 0px;
-    width: 100%;}
+    width: 100%;
+    color: black;
+  }
   
   input[type=submit] {
     background-color: #1255a2;
